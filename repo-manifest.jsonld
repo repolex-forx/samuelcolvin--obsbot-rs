@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/obsbot-rs/commit/e8a17fb8f1499e2d964d25e8c5657e7da3372b20",
       "git:hexsha": "e8a17fb8f1499e2d964d25e8c5657e7da3372b20",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
